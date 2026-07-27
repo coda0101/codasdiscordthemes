@@ -1,1 +1,1 @@
-# minion-yellow-theme
+# coda-discord-themes
