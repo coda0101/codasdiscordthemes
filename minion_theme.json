@@ -64,13 +64,6 @@
         "INTERACTIVE_ACTIVE": [
             "#ffd55e"
         ],
-        "HEADER_PRIMARY":
-        [
-            "#FFFFFF"
-        ],
-        "HEADER_SECONDARY": [
-            "#B5BAC1"
-        ],
         "INTERACTIVE_MUTED": [
             "#262627"
         ],
