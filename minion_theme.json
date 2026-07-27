@@ -64,11 +64,18 @@
         "INTERACTIVE_ACTIVE": [
             "#ffd55e"
         ],
+        "HEADER_PRIMARY":
+        [
+            "#FFFFFF"
+        ],
+        "HEADER_SECONDARY": [
+            "#B5BAC1"
+        ],
         "INTERACTIVE_MUTED": [
             "#262627"
         ],
         "INTERACTIVE_NORMAL": [
-            "#FFFFFF"
+            "#ffd55e"
         ],
         "PANEL_BG": [
             "#0C0C0D"
