@@ -1,6 +1,6 @@
 {
     "name": "Minion Yellow Dark",
-    "description": "Miniom yellow dark theme",
+    "description": "Minion yellow dark theme",
     "authors": [
         {
             "name": "Purple_Ξye™, coda (editor)"
@@ -61,6 +61,9 @@
         "EMBED_BACKGROUND_ALTERNATE": [
             "#111011"
         ],
+        "HEADER_SECONDARY": [
+            "#FFFFFF",
+        ]
         "INTERACTIVE_ACTIVE": [
             "#f5e050"
         ],
