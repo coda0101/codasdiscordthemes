@@ -20,7 +20,7 @@
             "#8c8c8c12"
         ],
         "BACKGROUND_PRIMARY": [
-            "#000000"
+            "#0c0c0d"
         ],
         "BACKGROUND_SECONDARY": [
             "#0f0f10"
@@ -29,13 +29,13 @@
             "#ffd55e16"
         ],
         "BG_BASE_TERTIARY": [
-            "#000000"
+            "#0c0c0d"
         ],
         "BG_BASE_PRIMARY": [
-            "#000000"
+            "#0c0c0d"
         ],
         "BG_BASE_SECONDARY": [
-            "#000000"
+            "#0c0c0d"
         ],
         "BG_BRAND": [
             "#ffd55e94"
