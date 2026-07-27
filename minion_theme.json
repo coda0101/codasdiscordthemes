@@ -1,9 +1,9 @@
 {
-    "name": "Minion Yellow Dark",
-    "description": "Minion yellow dark theme",
+    "name": "Minion Dark Theme",
+    "description": "Minion dark theme",
     "authors": [
         {
-            "name": "Purple_Ξye™, coda (editor)"
+            "name": "coda, Purple_Ξye™ (original)"
         }
     ],
     "semanticColors": {
@@ -11,10 +11,10 @@
             "#0E0E0F"
         ],
         "ANDROID_RIPPLE": [
-            "#f5e05023"
+            "#ffd55e23"
         ],
         "BACKGROUND_ACCENT": [
-            "#f5e050"
+            "#ffd55e"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
             "#8c8c8c12"
@@ -26,7 +26,7 @@
             "#0f0f10"
         ],
         "BACKGROUND_MENTIONED": [
-            "#f5e05016"
+            "#ffd55e16"
         ],
         "BG_BASE_TERTIARY": [
             "#000000"
@@ -38,7 +38,7 @@
             "#000000"
         ],
         "BG_BRAND": [
-            "#f5e05094"
+            "#ffd55e94"
         ],
         "BG_SURFACE_RAISED": [
             "#0E0E0F"
@@ -53,7 +53,7 @@
             "#0E0E0F"
         ],
         "CHANNEL_ICON": [
-            "#f5e05066"
+            "#ffd55e66"
         ],
         "EMBED_BACKGROUND": [
             "#111011"
@@ -61,44 +61,45 @@
         "EMBED_BACKGROUND_ALTERNATE": [
             "#111011"
         ],
-        "HEADER_PRIMARY": [
+        "INTERACTIVE_ACTIVE": [
+            "#ffd55e"
+        ],
+        "HEADER_PRIMARY":
+        [
             "#FFFFFF"
         ],
         "HEADER_SECONDARY": [
             "#B5BAC1"
         ],
-        "INTERACTIVE_ACTIVE": [
-            "#f5e050"
-        ],
         "INTERACTIVE_MUTED": [
             "#262627"
         ],
         "INTERACTIVE_NORMAL": [
-            "#f5e050"
+            "#ffd55e"
         ],
         "PANEL_BG": [
             "#0C0C0D"
         ],
         "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": [
-            "#ffd55e"
+            "#115695"
         ],
         "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-            "#ffd55e"
+            "#115695"
         ],
         "REDESIGN_BUTTON_SECONDARY_BORDER": [
-            "#ffd55e"
+            "#115695"
         ],
         "REDESIGN_BUTTON_SECONDARY_PRESSED_BACKGROUND": [
-            "#f5e050"
+            "#ffd55e"
         ],
         "REDESIGN_BUTTON_SECONDARY_TEXT": [
             "#dbdee1"
         ],
         "REDESIGN_BUTTON_TERTIARY_TEXT": [
-            "#f5e050"
+            "#ffd55e"
         ],
         "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
-            "#f3dc65"
+            "#fcd576"
         ],
         "TEXT_NORMAL": [
             "#dbdee1"
@@ -110,19 +111,19 @@
             "#b5bac1"
         ],
         "THREAD_CHANNEL_SPINE": [
-            "#f5e050"
+            "#ffd55e"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#fcce50"
+            "#0c457a"
         ],
         "PREMIUM_NITRO_PINK_TEXT": [
-            "#f5e050"
+            "#ffd55e"
         ],
         "TEXT_MUTED": [
             "#818491"
         ],
         "TEXT_LINK": [
-            "#f5e050"
+            "#ffd55e"
         ],
         "REDESIGN_CHAT_INPUT_BACKGROUND": [
             "#0E0E0F"
@@ -158,27 +159,27 @@
             "#f23f431a"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#f5e05016"
+            "#ffd55e16"
         ]
     },
     "rawColors": {
-        "BLUE_345": "#f5e050",
-        "GREEN_430": "#f5e050",
+        "BLUE_345": "#ffd55e",
+        "GREEN_430": "#ffd55e",
         "RED_430": "#E02929",
         "RED_460": "#AF2323",
-        "GREEN_460": "#ffd55e",
-        "BRAND_260": "#f5e050",
-        "BRAND_360": "#f5e050",
+        "GREEN_460": "#115695",
+        "BRAND_260": "#ffd55e",
+        "BRAND_360": "#ffd55e",
         "RED_400": "#F83838",
-        "BRAND_500": "#f5e050",
-        "BRAND_560": "#fcce50",
-        "PLUM_13": "#f5e050",
+        "BRAND_500": "#ffd55e",
+        "BRAND_560": "#0c457a",
+        "PLUM_13": "#ffd55e",
         "PLUM_14": "#1D1D21",
-        "PLUM_15": "#f5e050",
+        "PLUM_15": "#ffd55e",
         "PLUM_16": "#1D1D21",
         "PLUM_17": "#0E0E0F",
         "PLUM_18": "#111011",
-        "PLUM_19": "#fcce50",
+        "PLUM_19": "#0c457a",
         "PLUM_20": "#000000",
         "PLUM_22": "#0E0E0F",
         "PLUM_24": "#191919",
@@ -191,6 +192,6 @@
     "spec": 2,
     "plus": {
         "version": 0,
-        "mentionLineColor": "#f5e050"
+        "mentionLineColor": "#ffd55e"
     }
 }
