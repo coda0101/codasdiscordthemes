@@ -23,19 +23,19 @@
             "#000000"
         ],
         "BACKGROUND_SECONDARY": [
-            "#0f0f10"
+            "#0c0c0d"
         ],
         "BACKGROUND_MENTIONED": [
             "#ffd55e16"
         ],
         "BG_BASE_TERTIARY": [
-            "#0c0c0d"
+            "#000000"
         ],
         "BG_BASE_PRIMARY": [
-            "#0c0c0d"
+            "#000000"
         ],
         "BG_BASE_SECONDARY": [
-            "#0c0c0d"
+            "#000000"
         ],
         "BG_BRAND": [
             "#ffd55e94"
