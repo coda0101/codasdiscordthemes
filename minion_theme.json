@@ -20,10 +20,10 @@
             "#8c8c8c12"
         ],
         "BACKGROUND_PRIMARY": [
-            "#000000"
+            "#0c0c0d"
         ],
         "BACKGROUND_SECONDARY": [
-            "#0c0c0d"
+            "000000"
         ],
         "BACKGROUND_MENTIONED": [
             "#ffd55e16"
