@@ -61,8 +61,11 @@
         "EMBED_BACKGROUND_ALTERNATE": [
             "#111011"
         ],
-        "HEADER_SECONDARY": [
+        "HEADER_PRIMARY": [
             "#FFFFFF"
+        ],
+        "HEADER_SECONDARY": [
+            "#B5BAC1"
         ],
         "INTERACTIVE_ACTIVE": [
             "#f5e050"
