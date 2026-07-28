@@ -58,7 +58,7 @@
       "#00203d"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#0c457a"
+      "##053454"
     ],
     "BACKGROUND_TERTIARY": [
       "#1a1b1e"
@@ -134,6 +134,9 @@
     ],
     "REDESIGN_ACTIVITY_CARD_BACKGROUND_PRESSED": [
       "#00203d"
+    ],
+    "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": [
+      "#063c61"
     ],
     "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
       "#0c457a"
@@ -251,7 +254,7 @@
     "BRAND_460": "#ffd55e",
     "BRAND_500": "#ffd55e",
     "BRAND_530": "#ffd55e",
-    "BRAND_560": "#0c457a",
+    "BRAND_560": "#053454",
     "BRAND_600": "#ffd55e",
     "BRAND_630": "#ffd55e",
     "BRAND_660": "#ffd55e",
@@ -269,7 +272,7 @@
     "PLUM_16": "#00203d",
     "PLUM_17": "#121212",
     "PLUM_18": "#0c457a",
-    "PLUM_19": "#00203d",
+    "PLUM_19": "#053454",
     "PLUM_20": "#121212",
     "PLUM_21": "#00203d",
     "PLUM_22": "#00203d",
@@ -298,7 +301,7 @@
     "GREEN_360": "#3ba55d",
     "GREEN_400": "#3ba55d",
     "GREEN_430": "#3ba55d",
-    "GREEN_460": "#3ba55d",
+    "GREEN_460": "#063c61",
     "GREEN_500": "#3ba55d",
     "GREEN_530": "#3ba55d",
     "GREEN_560": "#3ba55d",
