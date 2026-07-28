@@ -1,10 +1,10 @@
 {
-  "name": "Minion Dark Theme",
-  "description": "Minion dark theme",
+  "name": "Minion Theme",
+  "description": "Theme inspired by the Minions color palette",
   "version": "1",
   "authors": [
     {
-      "name": "Author",
+      "name": "coda",
       "id": "000000000000000000"
     }
   ],
@@ -37,7 +37,7 @@
       "#121212"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#061d32"
+      "#00203d"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
       "#FFFFFF12"
@@ -55,7 +55,7 @@
       "#121212"
     ],
     "BACKGROUND_SECONDARY": [
-      "#061d32"
+      "#00203d"
     ],
     "BACKGROUND_SECONDARY_ALT": [
       "#0c457a"
@@ -70,13 +70,13 @@
       "#000000b2"
     ],
     "BG_BASE_SECONDARY": [
-      "#061d32"
+      "#00203d"
     ],
     "BG_BASE_TERTIARY": [
       "#0c457a"
     ],
     "HOME_BACKGROUND": [
-      "#061d32"
+      "#00203d"
     ],
     "BORDER_FAINT": [
       "#FFFFFF12"
@@ -133,7 +133,7 @@
       "#0c457a"
     ],
     "REDESIGN_ACTIVITY_CARD_BACKGROUND_PRESSED": [
-      "#061d32"
+      "#00203d"
     ],
     "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
       "#0c457a"
@@ -169,10 +169,10 @@
       "#121212"
     ],
     "POLLS_NORMAL_FILL_HOVER": [
-      "#061d32"
+      "#00203d"
     ],
     "POLLS_NORMAL_IMAGE_BACKGROUND": [
-      "#061d32"
+      "#00203d"
     ],
     "POLLS_VICTOR_FILL": [
       "#3ba55d80"
@@ -266,13 +266,13 @@
     "PLUM_11": "#818491",
     "PLUM_13": "#818491",
     "PLUM_15": "#ffd55e",
-    "PLUM_16": "#061d32",
+    "PLUM_16": "#00203d",
     "PLUM_17": "#121212",
     "PLUM_18": "#0c457a",
-    "PLUM_19": "#061d32",
+    "PLUM_19": "#00203d",
     "PLUM_20": "#121212",
-    "PLUM_21": "#061d32",
-    "PLUM_22": "#061d32",
+    "PLUM_21": "#00203d",
+    "PLUM_22": "#00203d",
     "PLUM_24": "#121212",
     "PLUM_25": "#121212",
     "PRIMARY_100": "#818491",
@@ -281,13 +281,13 @@
     "PRIMARY_330": "#dbdee1",
     "PRIMARY_360": "#ffd55e",
     "PRIMARY_400": "#0c457a",
-    "PRIMARY_460": "#061d32",
+    "PRIMARY_460": "#00203d",
     "PRIMARY_500": "#ffd55e",
     "PRIMARY_530": "#ffd55e",
     "PRIMARY_600": "#121212",
-    "PRIMARY_630": "#061d32",
+    "PRIMARY_630": "#00203d",
     "PRIMARY_645": "#0c457a",
-    "PRIMARY_660": "#061d32",
+    "PRIMARY_660": "#00203d",
     "PRIMARY_700": "#1a1b1e",
     "PRIMARY_730": "#818491",
     "PRIMARY_800": "#0E0E0F",
@@ -363,6 +363,10 @@
     "iconPack": "default",
     "mentionLineColor": "#ffd55e",
     "customOverlays": false
+  },
+  "background": {
+    "blur": 0,
+    "url": "https://raw.githubusercontent.com/coda0101/codasdiscordthemes/refs/heads/main/minion_background.jpeg"
   },
   "spec": 2
 }
