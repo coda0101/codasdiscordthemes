@@ -10,7 +10,7 @@
   ],
   "semanticColors": {
     "ANDROID_RIPPLE": [
-      "#6c6f75"
+      "#0c457a23"
     ],
     "CHAT_BACKGROUND": [
       "#121212"
@@ -75,6 +75,9 @@
     "BG_BASE_TERTIARY": [
       "#0c457a"
     ],
+    "BG_BRAND": [
+      "#0c457a94"
+    ],
     "HOME_BACKGROUND": [
       "#00203d"
     ],
@@ -97,7 +100,7 @@
       "#818491"
     ],
     "CHANNEL_ICON": [
-      "#818491"
+      "#0c457a66"
     ],
     "CHANNELTEXTAREA_BACKGROUND": [
       "#000000"
@@ -112,7 +115,7 @@
       "#818491"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#ffd55e"
+      "#0c457a"
     ],
     "INTERACTIVE_HOVER": [
       "#0c457a"
